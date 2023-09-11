@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/hashicorp/go-discover/provider/mdns"
+	"github.com/mandeepbrar/go-discover/provider/mdns"
 )
 
 // Provider has lookup functions for meta data in a
